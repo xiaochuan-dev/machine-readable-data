@@ -1,0 +1,13 @@
+[project]
+name = "machine-readable-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "freexiaochuan", email = "w2239559319@myyahoo.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "cv>=1.0.0",
+    "pillow>=13.0.0",
+]
